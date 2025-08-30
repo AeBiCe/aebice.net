@@ -47,3 +47,6 @@ devenv.local.nix
 .DS_Store
 .hugo_build.lock
 resources/_gen/
+
+# Custom ignores
+content/posts/.obsidian/
