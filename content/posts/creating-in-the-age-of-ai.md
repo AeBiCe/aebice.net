@@ -1,6 +1,6 @@
 ---
-date: 2025-08-30T12:54:46+02:00
-draft: true
+date: 2025-08-30T13:55:00+02:00
+draft: false
 title: Creating in the Age of AI
 tags:
   - ai
@@ -17,4 +17,4 @@ The poem is inspired by Homer's Odyssey where we follow Odysseus' journey back t
 
 In a time where more and more content is created by or with the help of AI, we need to stand firm and enjoy the art of creating. We can't forget the joy of the process, the struggles and the fulfillment of overcoming the obstacles. Fulfillment is found in the process of overcoming struggles not the lack of them. With that said, we should also not struggle, just to struggle. Learn to use AI in a manner that help you on your journey instead of taking you directly to it. Let it be the wind in your sails rather than the destination itself. 
 
-To practice what I've preached here, I'm committed to writing this blog without the assistance of AI, which you might already have guessed based based on the lack of em dashes or polished quality. This blog is my Ithaca and whatever your Ithaca might be, don't haste your journey because there is so much to experience and enjoy along the way.
+To practice what I've preached here, I'm committed to writing this blog without the assistance of AI, which you might already have guessed based based on the lack of em dashes. This blog is my Ithaca and whatever your Ithaca might be, don't haste your journey because there is so much to experience and enjoy along the way.
