@@ -6,14 +6,7 @@
     font-display: swap;
 }
 
-em,
-i {
-    color: #b3480ab0;
-}
 
-.post-content blockquote {
-    --primary: #b3480a3b;
-}
 
 .site-title,
 .post-title,
@@ -32,15 +25,30 @@ i {
 } */
 
 .dark {
-    --theme: #18100c;
+    --theme: #130e0b;
     --code-bg: #35241c;
     --border: #271a15;
     --tertiary: #271a15;
-    --entry: #271a15;
+    --entry: #241914;
 }
 
 body {
-    --theme: #f5eee6;
     --border: #e4ded8;
     --primary: #352208;
 }
+
+em,
+i {
+    color: #b3480ab0;
+}
+
+.post-content blockquote {
+    --primary: #b3480a3b;
+}
+
+
+/*
+--theme: #18100c;
+--entry: #271a15;
+
+*/
