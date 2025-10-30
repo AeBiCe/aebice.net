@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Dela Gothic One';
+    src: url('/fonts/DelaGothicOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.site-title,
+.post-title,
+.entry-header,
+.page-header,
+.logo {
+    font-family: 'Dela Gothic One', sans-serif !important;
+}
+
+.dark {
+    --theme: #130e0b;
+    --code-bg: #35241c;
+    --border: #271a15;
+    --tertiary: #271a15;
+    --entry: #18120f;
+}
+
+body {
+    --border: #e4ded8;
+    --primary: #352208;
+}
+
+em,
+i {
+    color: #b3480ab0;
+}
+
+.post-content blockquote {
+    --primary: #b3480a3b;
+}
