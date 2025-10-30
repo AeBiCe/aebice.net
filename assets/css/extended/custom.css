@@ -6,8 +6,6 @@
     font-display: swap;
 }
 
-
-
 .site-title,
 .post-title,
 .entry-header,
@@ -16,20 +14,12 @@
     font-family: 'Dela Gothic One', sans-serif !important;
 }
 
-/* .post-entry {
-    background: #271a15;
-}
-
-.dark-list {
-    background: #271a15;
-} */
-
 .dark {
     --theme: #130e0b;
     --code-bg: #35241c;
     --border: #271a15;
     --tertiary: #271a15;
-    --entry: #241914;
+    --entry: #18120f;
 }
 
 body {
@@ -45,10 +35,3 @@ i {
 .post-content blockquote {
     --primary: #b3480a3b;
 }
-
-
-/*
---theme: #18100c;
---entry: #271a15;
-
-*/

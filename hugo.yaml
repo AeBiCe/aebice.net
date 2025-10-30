@@ -9,6 +9,7 @@ params:
   showtoc: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
+  defaultTheme: dark
 
 menu:
   main:
